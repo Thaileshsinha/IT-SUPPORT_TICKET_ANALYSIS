@@ -1,0 +1,1 @@
+Analyzed agent performance, customer satisfaction, and problem resolution efficiency by examining key metrics such as request categories, priority, severity, issue type, satisfaction rate, and resolution time
